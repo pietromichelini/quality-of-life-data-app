@@ -1,12 +1,6 @@
 # Webpack-QOL-Data-App
 App that displays quality of life data about a list of urban areas (through [Teleport.org](https://developers.teleport.org/api/)'s API).
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -25,11 +19,11 @@ App that displays quality of life data about a list of urban areas (through [Tel
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://fascinating-pie-7a403c.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/pietromichelini/Webpack-QOL-Data-App/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/pietromichelini/Webpack-QOL-Data-App/issues">Request Feature</a>
   </p>
 </div>
 
@@ -86,8 +80,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -95,7 +87,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This project requires npm. If you don't have it installed already, simply type the following commands in your terminal.
 * npm
   ```sh
   npm install npm@latest -g
@@ -103,18 +95,22 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Build from source 
+   ```sh
+   npm run build
+   ```
+4. Open dist/index.html
+   Or simply serve from source (thanks to [webpack-dev-server](https://webpack.js.org/configuration/dev-server/))
+    ```sh
+   npm run dev
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
