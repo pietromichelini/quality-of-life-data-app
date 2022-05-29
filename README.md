@@ -105,7 +105,20 @@ In alternative to steps 3 and 4 you can also just serve directly from source (us
    ```
    
 ## Usage
+
+Simply type a city name in the search bar and click the "SEARCH" button. There will be 4 possible outcomes.
+
+1. If the name you have searched for matches exactly or is close enough to a city name present in Teleport.org's database. The site will display some information about that city (As shown in the gif below).
 ![roma](https://user-images.githubusercontent.com/95065307/170877342-775973f1-04a0-4376-8e4b-b2890a1fb5a5.gif)
+
+2. If the name you have searched for is NOT close enough to any of the actual city names present in Teleport.org's database. The site will display some information about that city (As shown in the gif below).
+![city-not-found](https://user-images.githubusercontent.com/95065307/170877916-a89545bd-74a4-4a37-9cd3-cdecd9d918a7.gif)
+
+3. If you have clicked the "SEARCH" button without entering any characters. The site will display error message, as shown below.
+![plz-enter-city](https://user-images.githubusercontent.com/95065307/170877921-0e74dd96-dd01-4199-a91f-eadc820e63ca.gif)
+
+4. If you have 
+
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -125,11 +138,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Pietro Michelini - pietro.michelini@gmail.com
 
-Project Link: 
-- [Github Repo](https://github.com/github_username/repo_name)
+Project Links: 
+- [Github Repository](https://github.com/github_username/repo_name)
 - [Netlify Website](https://fascinating-pie-7a403c.netlify.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
