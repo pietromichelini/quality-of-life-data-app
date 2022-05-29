@@ -1,9 +1,6 @@
 # Webpack-QOL-Data-App
 App that displays quality of life data about a list of urban areas (through [Teleport.org](https://developers.teleport.org/api/)'s API).
 
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -27,8 +24,6 @@ App that displays quality of life data about a list of urban areas (through [Tel
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -47,11 +42,8 @@ App that displays quality of life data about a list of urban areas (through [Tel
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -87,8 +79,10 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This project requires npm. If you don't have it installed already, simply type the following commands in your terminal.
 * npm
+
+If you don't have npm installed yet, simply type the following command in your terminal.
+
   ```sh
   npm install npm@latest -g
   ```
@@ -97,7 +91,7 @@ This project requires npm. If you don't have it installed already, simply type t
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/pietromichelini/Webpack-QOL-Data-App.git
    ```
 2. Install NPM packages
    ```sh
