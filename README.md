@@ -75,15 +75,14 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 ### Built With
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [CSS](https://en.wikipedia.org/wiki/CSS)
+* [JS] (https://en.wikipedia.org/wiki/JavaScript)
+* [Webpack](https://webpack.js.org)
+* [Sass](https://sass-lang.com/)
+* [Lodash](https://lodash.com)
+* [Axios](https://axios-http.com/)
+* [Webpack-Dotenv](https://www.npmjs.com/package/dotenv-webpack)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
