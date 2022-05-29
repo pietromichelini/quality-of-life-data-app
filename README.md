@@ -1,5 +1,5 @@
 # Webpack-QOL-Data-App
-App that displays quality of life data about a list of urban areas (through Teleport.org's API).
+App that displays quality of life data about a list of urban areas (through [Teleport.org](https://developers.teleport.org/api/)'s API).
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
