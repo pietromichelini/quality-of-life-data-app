@@ -77,7 +77,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ### Built With
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/CSS)
-* [JS] (https://en.wikipedia.org/wiki/JavaScript)
+* [JS](https://en.wikipedia.org/wiki/JavaScript)
 * [Webpack](https://webpack.js.org)
 * [Sass](https://sass-lang.com/)
 * [Lodash](https://lodash.com)
