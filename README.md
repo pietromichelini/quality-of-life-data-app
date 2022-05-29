@@ -107,8 +107,10 @@ This project requires npm. If you don't have it installed already, simply type t
    ```sh
    npm run build
    ```
-4. Open dist/index.html
-   Or simply serve from source (thanks to [webpack-dev-server](https://webpack.js.org/configuration/dev-server/))
+4. Open dist/index.html.
+
+
+In alternative to steps 3 and 4 you can also serve directly from source (using [webpack-dev-server](https://webpack.js.org/configuration/dev-server/))
     ```sh
    npm run dev
    ```
@@ -126,8 +128,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -139,8 +139,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
+\
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -158,16 +157,12 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
@@ -177,8 +172,6 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
