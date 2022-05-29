@@ -108,12 +108,11 @@ This project requires npm. If you don't have it installed already, simply type t
    npm run build
    ```
 4. Open dist/index.html 
-   ```sh
+
+6. In alternative to steps 3 and 4 you can also serve directly from source (using [webpack-dev-server](https://webpack.js.org/configuration/dev-server/))
+```sh
    npm run dev
    ```
-
-In alternative to steps 3 and 4 you can also serve directly from source (using [webpack-dev-server](https://webpack.js.org/configuration/dev-server/))
-
    
 
 ## Usage
