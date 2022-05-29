@@ -47,8 +47,6 @@ App that displays quality of life data about a list of urban areas (through [Tel
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -57,8 +55,6 @@ App that displays quality of life data about a list of urban areas (through [Tel
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 * [HTML](https://en.wikipedia.org/wiki/HTML)
@@ -109,6 +105,7 @@ In alternative to steps 3 and 4 you can also just serve directly from source (us
    ```
    
 ## Usage
+![roma](https://user-images.githubusercontent.com/95065307/170877342-775973f1-04a0-4376-8e4b-b2890a1fb5a5.gif)
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
