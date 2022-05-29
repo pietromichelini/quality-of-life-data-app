@@ -1,0 +1,67 @@
+// computers
+.Parent {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    height: auto;
+
+    .child {
+        text-align: center;
+        width: auto;
+    }
+
+    .centro {
+        width: 90%;
+    }
+
+    .lato {
+        width: 5%;
+    }
+}
+
+// smartphone/tablet
+@media (max-width: 700px) {
+
+    .centro {
+        min-width: 100%;
+        display: hidden;
+    }
+
+    .lato {
+        width: 0%;
+        display: none;
+    }
+
+    .categoriesBox {
+        padding: 0 !important;
+    }
+
+
+    .categories {
+        padding: 0 0.5rem !important;
+        margin: 1rem 0 !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+        text-align: center !important;
+
+        .outer {
+            margin: 0.5rem !important;
+            width: 90% !important;
+        }
+
+        span.score {
+            display: none;
+        }
+    }
+
+    .pic {
+        display: none
+    }
+
+    .summary {
+        margin-top: 1rem !important;
+    }
+
+}
