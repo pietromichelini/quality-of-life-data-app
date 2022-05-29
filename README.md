@@ -115,8 +115,7 @@ In alternative to steps 3 and 4 you can also serve directly from source (using [
     ```sh
     npm run dev
    ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+w
 
 
 
