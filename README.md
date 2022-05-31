@@ -110,17 +110,20 @@ Simply type a city name in the search bar and click the "SEARCH" button. There w
 
 1. If the name you have searched for matches exactly or is close enough to a city name present in Teleport.org's database. The site will display some information about that city. There will also be a "LEARN MORE" button at the bottom that will link to Teleport.org's page dedicated to that city.
 
-![roma](https://user-images.githubusercontent.com/95065307/170877342-775973f1-04a0-4376-8e4b-b2890a1fb5a5.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/95065307/171222921-88c37db1-877f-449a-b5f6-92974d3376f7.gif)
+
+
 
 2. If the name you have searched for is NOT close enough to any of the actual city names present in Teleport.org's database. The site will display an error message (as shown in the gif below).
-
-![city-not-found](https://user-images.githubusercontent.com/95065307/170877916-a89545bd-74a4-4a37-9cd3-cdecd9d918a7.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/95065307/171223535-2dfd26dd-3a15-4883-b74d-b363d74872fe.gif)
 
 3. If you have clicked the "SEARCH" button without entering any characters. The site will display error message (as shown in the gif below).
 
-![plz-enter-city](https://user-images.githubusercontent.com/95065307/170877921-0e74dd96-dd01-4199-a91f-eadc820e63ca.gif)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/95065307/171223215-44fa94a2-2f6e-4131-900f-72cafadbb946.gif)
 
 4. If there are other problems 
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/95065307/171223667-96bad84a-babe-405f-8384-cb87fe2623af.gif)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
