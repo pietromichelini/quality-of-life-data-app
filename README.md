@@ -112,19 +112,17 @@ Simply type a city name in the search bar and click the "SEARCH" button. There w
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/95065307/171222921-88c37db1-877f-449a-b5f6-92974d3376f7.gif)
 
-
-
 2. If the name you have searched for is NOT close enough to any of the actual city names present in Teleport.org's database. The site will display an error message (as shown in the gif below).
+
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/95065307/171223535-2dfd26dd-3a15-4883-b74d-b363d74872fe.gif)
 
 3. If you have clicked the "SEARCH" button without entering any characters. The site will display error message (as shown in the gif below).
 
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/95065307/171223215-44fa94a2-2f6e-4131-900f-72cafadbb946.gif)
 
-4. If there are other problems 
+4. In any other case the site will display an error message (as shown in the gif below).
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/95065307/171223667-96bad84a-babe-405f-8384-cb87fe2623af.gif)
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
