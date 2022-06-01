@@ -3,7 +3,7 @@
   <a href="https://github.com/github_username/repo_name">
     <img src="src/assets/img/favicon.ico" alt="Logo" width="50" height="50">
   </a>
-<h3 align="center">Moving Informer</h3>
+<h3 align="center">Move Informer</h3>
 </div>
 <p align="center">
     Where Do You Want to Move?
