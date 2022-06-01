@@ -39,7 +39,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            title: 'Webpack QOL Data App',
+            title: 'Move Informer',
             filename: 'index.html',
             template: 'src/template.html',
             favicon: 'src/assets/img/favicon.ico',
