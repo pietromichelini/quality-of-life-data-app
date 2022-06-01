@@ -8,11 +8,10 @@ App that displays quality of life data about a list of urban areas (through [Tel
   </a>
 
 <h3 align="center">Move Planner</h3>
-  
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details align="left">
+<details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -110,8 +109,8 @@ Simply type a city name in the search bar and click the "SEARCH" button. There w
 4. In any other case the site will display an error message (as shown in the gif below).
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/95065307/171223667-96bad84a-babe-405f-8384-cb87fe2623af.gif)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+<!-- 
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 <!-- LICENSE -->
 ## License
