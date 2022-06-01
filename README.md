@@ -97,6 +97,8 @@ Simply type a city name in the search bar and click the "SEARCH" button. There w
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/95065307/171222921-88c37db1-877f-449a-b5f6-92974d3376f7.gif)
 
+<p align="center"><img src="https://user-images.githubusercontent.com/95065307/171222921-88c37db1-877f-449a-b5f6-92974d3376f7.gif" /></p> nor <p style="align:center"><img src="image" /></p> 
+
 At the end of the page there will also be a "LEARN MORE" button that links to [Teleport.org](https://developers.teleport.org/api/)'s page regarding the city searched by the user (as shown in the gif below).
 
 ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/95065307/171333821-0d6a64ba-2854-46ec-9efe-ab10865d0595.gif)
@@ -109,11 +111,9 @@ At the end of the page there will also be a "LEARN MORE" button that links to [T
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/95065307/171325223-944930d0-9e86-40f7-828c-f4a98828bed0.gif)
 
-
 4. In any other case the site will display an error message (as shown in the gif below).
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/95065307/171325244-d85c37f3-8604-4acb-80b2-1c3da43dfa19.gif)
-
 
 <!-- LICENSE -->
 ## License
@@ -128,4 +128,3 @@ Pietro Michelini - pietro.michelini@gmail.com
 Project Links: 
 - [Github Repository](https://github.com/github_username/repo_name)
 - [Netlify Website](https://fascinating-pie-7a403c.netlify.app/)
-
