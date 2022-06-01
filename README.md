@@ -10,21 +10,6 @@ App that displays quality of life data about a list of urban areas (through [Tel
 
 <h3 align="center">project_title</h3>
 
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://fascinating-pie-7a403c.netlify.app/">View Demo</a>
-    ·
-    <a href="https://github.com/pietromichelini/Webpack-QOL-Data-App/issues">Report Bug</a>
-
-    ·
-    <a href="https://github.com/pietromichelini/Webpack-QOL-Data-App/issues">Request Feature</a>
-  </p>
-</div>
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
