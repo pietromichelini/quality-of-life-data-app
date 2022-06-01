@@ -3,7 +3,7 @@
   <a href="https://github.com/github_username/repo_name">
     <img src="src/assets/img/favicon.ico" alt="Logo" width="50" height="50">
   </a>
-<h3 align="center">City Informer</h3>
+<h3 align="center">Moving Informer</h3>
 </div>
 <p align="center">
     Where Do You Want to Move?
@@ -37,7 +37,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/95065307/171333043-8dba40bc-6440-433f-83f2-aa500173c318.gif" /></p>
 
-This simple app allows users to search for a city and find out data about its quality of life.
+This simple app allows the user to search for a city and find out data about its quality of life.
 Click [here](https://fascinating-pie-7a403c.netlify.app/) to check it out.
 
 (The data displayed is fetched from [Teleport.org](https://developers.teleport.org/api/)'s free API)
