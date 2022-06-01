@@ -5,7 +5,7 @@ App that displays quality of life data about a list of urban areas (through [Tel
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="src/assets/img/favicon.ico" alt="Logo" width="80" height="80">
+    <img src="src/assets/img/favicon.ico" alt="Logo" width="50" height="50">
   </a>
 
 <h3 align="center">project_title</h3>
