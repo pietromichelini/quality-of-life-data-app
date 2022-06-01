@@ -5,7 +5,7 @@
   </a>
 <h3 align="center">Move Informer</h3>
 </div>
-<p align="center">Use our data to plan your next move</p>
+<p align="center">Use Our Data to Plan Your Next Move</p>
 
 <!-- TABLE OF CONTENTS -->
 <details>
