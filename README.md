@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/95065307/171331206-db27c718-662f-4dfd-ac4e-54ff4ef803ee.gif)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/95065307/171333043-8dba40bc-6440-433f-83f2-aa500173c318.gif)
 
 This simple app allows users to search for a city and find out data about its quality of life.
 Click [here](https://fascinating-pie-7a403c.netlify.app/) to check it out.
