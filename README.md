@@ -63,7 +63,7 @@ To get a local copy up and running follow these simple steps.
 * [Node](https://nodejs.org/en/)
 * [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
-If you don't have Node installed yet, use [this link](https://nodejs.org/en/).
+If you don't have Node installed yet, click [here](https://nodejs.org/en/).
 
 If you don't have npm installed yet, simply type the following command in your terminal.
 
