@@ -58,7 +58,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-* [Node](https://nodejs.org/en/)
+* [Node.js](https://nodejs.org/en/)
 * [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 If you don't have Node installed yet, click [here](https://nodejs.org/en/).
