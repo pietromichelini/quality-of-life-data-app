@@ -38,8 +38,9 @@
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/95065307/171331206-db27c718-662f-4dfd-ac4e-54ff4ef803ee.gif)
 
 This simple app allows users to search for a city and find out data about its quality of life.
-The data displayed is fetched from [Teleport.org](https://developers.teleport.org/api/)'s free API.
-To try the site click [here](https://fascinating-pie-7a403c.netlify.app/).
+Click [here](https://fascinating-pie-7a403c.netlify.app/) to check it out.
+
+(The data displayed is fetched from [Teleport.org](https://developers.teleport.org/api/)'s free API)
 
 
 ### Built With
@@ -92,11 +93,11 @@ In alternative to steps 3 and 4 you can also just serve directly from source (us
 
 Simply type a city name in the search bar and click the "SEARCH" button. There will be 4 possible outcomes.
 
-1. If the name you have searched for matches exactly or is close enough to a city name present in Teleport.org's database. The site will display some information about that city. There will also be a "LEARN MORE" button at the bottom that will link to Teleport.org's page dedicated to that city.
+1. If the name you have searched for matches exactly or is close enough to a city name present in Teleport.org's database. The site will display some information about that city. There will also be a "LEARN MORE" button at the bottom that will link to Teleport.org's page dedicated to that city (as shown in the gif below).
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/95065307/171222921-88c37db1-877f-449a-b5f6-92974d3376f7.gif)
 
-At the end of the page there will also be a "LEARN MORE" button that links to [Teleport.org](https://developers.teleport.org/api/)'s page regarding the city searched by the user.
+At the end of the page there will also be a "LEARN MORE" button that links to [Teleport.org](https://developers.teleport.org/api/)'s page regarding the city searched by the user (as shown in the gif below).
 
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/95065307/171331574-71c5241f-9f65-4ce5-bf07-23e0be3d1731.gif)
 
