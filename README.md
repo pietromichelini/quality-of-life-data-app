@@ -1,14 +1,13 @@
-# Webpack-QOL-Data-App
-App that displays quality of life data about a list of urban areas (through [Teleport.org](https://developers.teleport.org/api/)'s API).
-
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
     <img src="src/assets/img/favicon.ico" alt="Logo" width="50" height="50">
   </a>
-
-<h3 align="center">Move Planner</h3>
+<h3 align="center">City Informer</h3>
 </div>
+<p align="center">
+    Where Do You Want to Move?
+  </p>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -36,9 +35,10 @@ App that displays quality of life data about a list of urban areas (through [Tel
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![qol-app](https://user-images.githubusercontent.com/95065307/171326784-6f140861-0882-43bc-a9ad-8070e90f06f3.jpg)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This simple app allows users to search for cities and find out data on many factors regarding quality of life.
+(The data displayed is fetched from [Teleport.org](https://developers.teleport.org/api/)'s free API)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -63,7 +63,7 @@ To get a local copy up and running follow these simple steps.
 
 * npm
 
-If you don't have npm installed yet, simply type the following command in your terminal.
+If you don't have [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed yet, simply type the following command in your terminal.
 
   ```sh
   npm install npm@latest -g
@@ -104,11 +104,13 @@ Simply type a city name in the search bar and click the "SEARCH" button. There w
 
 3. If you have clicked the "SEARCH" button without entering any characters. The site will display error message (as shown in the gif below).
 
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/95065307/171223215-44fa94a2-2f6e-4131-900f-72cafadbb946.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/95065307/171325223-944930d0-9e86-40f7-828c-f4a98828bed0.gif)
+
 
 4. In any other case the site will display an error message (as shown in the gif below).
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/95065307/171223667-96bad84a-babe-405f-8384-cb87fe2623af.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/95065307/171325244-d85c37f3-8604-4acb-80b2-1c3da43dfa19.gif)
+
 <!-- 
 <p align="right">(<a href="#top">back to top</a>)</p> -->
 
