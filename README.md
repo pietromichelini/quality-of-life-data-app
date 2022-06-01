@@ -35,12 +35,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![qol-app](https://user-images.githubusercontent.com/95065307/171326784-6f140861-0882-43bc-a9ad-8070e90f06f3.jpg)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/95065307/171331206-db27c718-662f-4dfd-ac4e-54ff4ef803ee.gif)
 
-This simple app allows users to search for cities and find out data on many factors regarding quality of life.
-(The data displayed is fetched from [Teleport.org](https://developers.teleport.org/api/)'s free API)
+This simple app allows users to search for a city and find out data about its quality of life.
+The data displayed is fetched from [Teleport.org](https://developers.teleport.org/api/)'s free API.
+To try the site click [here](https://fascinating-pie-7a403c.netlify.app/).
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 * [HTML](https://en.wikipedia.org/wiki/HTML)
@@ -51,8 +51,6 @@ This simple app allows users to search for cities and find out data on many fact
 * [Lodash](https://lodash.com)
 * [Axios](https://axios-http.com/)
 * [Webpack-Dotenv](https://www.npmjs.com/package/dotenv-webpack)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -98,6 +96,10 @@ Simply type a city name in the search bar and click the "SEARCH" button. There w
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/95065307/171222921-88c37db1-877f-449a-b5f6-92974d3376f7.gif)
 
+At the end of the page there will also be a "LEARN MORE" button that links to [Teleport.org](https://developers.teleport.org/api/)'s page regarding the city searched by the user.
+
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/95065307/171331574-71c5241f-9f65-4ce5-bf07-23e0be3d1731.gif)
+
 2. If the name you have searched for is NOT close enough to any of the actual city names present in Teleport.org's database. The site will display an error message (as shown in the gif below).
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/95065307/171223535-2dfd26dd-3a15-4883-b74d-b363d74872fe.gif)
@@ -111,15 +113,11 @@ Simply type a city name in the search bar and click the "SEARCH" button. There w
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/95065307/171325244-d85c37f3-8604-4acb-80b2-1c3da43dfa19.gif)
 
-<!-- 
-<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
@@ -130,4 +128,3 @@ Project Links:
 - [Github Repository](https://github.com/github_username/repo_name)
 - [Netlify Website](https://fascinating-pie-7a403c.netlify.app/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
