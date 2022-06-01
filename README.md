@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/95065307/171333043-8dba40bc-6440-433f-83f2-aa500173c318.gif)
+<p align="center"><img src="https://user-images.githubusercontent.com/95065307/171333043-8dba40bc-6440-433f-83f2-aa500173c318.gif" /></p>
 
 This simple app allows users to search for a city and find out data about its quality of life.
 Click [here](https://fascinating-pie-7a403c.netlify.app/) to check it out.
@@ -95,25 +95,23 @@ Simply type a city name in the search bar and click the "SEARCH" button. There w
 
 1. If the name you have searched for matches exactly or is close enough to a city name present in Teleport.org's database. The site will display some information about that city. There will also be a "LEARN MORE" button at the bottom that will link to Teleport.org's page dedicated to that city (as shown in the gif below).
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/95065307/171222921-88c37db1-877f-449a-b5f6-92974d3376f7.gif)
-
-<p align="center"><img src="https://user-images.githubusercontent.com/95065307/171222921-88c37db1-877f-449a-b5f6-92974d3376f7.gif" /></p> nor <p style="align:center"><img src="image" /></p> 
+<p align="center"><img src="https://user-images.githubusercontent.com/95065307/171222921-88c37db1-877f-449a-b5f6-92974d3376f7.gif" /></p>
 
 At the end of the page there will also be a "LEARN MORE" button that links to [Teleport.org](https://developers.teleport.org/api/)'s page regarding the city searched by the user (as shown in the gif below).
 
-![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/95065307/171333821-0d6a64ba-2854-46ec-9efe-ab10865d0595.gif)
+<p align="center"><img src="https://user-images.githubusercontent.com/95065307/171333821-0d6a64ba-2854-46ec-9efe-ab10865d0595.gif" /></p>
 
 2. If the name you have searched for is NOT close enough to any of the actual city names present in Teleport.org's database. The site will display an error message (as shown in the gif below).
 
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/95065307/171223535-2dfd26dd-3a15-4883-b74d-b363d74872fe.gif)
+<p align="center"><img src="https://user-images.githubusercontent.com/95065307/171223535-2dfd26dd-3a15-4883-b74d-b363d74872fe.gif" /></p>
 
 3. If you have clicked the "SEARCH" button without entering any characters. The site will display error message (as shown in the gif below).
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/95065307/171325223-944930d0-9e86-40f7-828c-f4a98828bed0.gif)
+<p align="center"><img src="https://user-images.githubusercontent.com/95065307/171325223-944930d0-9e86-40f7-828c-f4a98828bed0.gif" /></p>
 
 4. In any other case the site will display an error message (as shown in the gif below).
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/95065307/171325244-d85c37f3-8604-4acb-80b2-1c3da43dfa19.gif)
+<p align="center"><img src="https://user-images.githubusercontent.com/95065307/171325244-d85c37f3-8604-4acb-80b2-1c3da43dfa19.gif" /></p>
 
 <!-- LICENSE -->
 ## License
