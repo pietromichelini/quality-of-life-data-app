@@ -99,7 +99,7 @@ Simply type a city name in the search bar and click the "SEARCH" button. There w
 
 At the end of the page there will also be a "LEARN MORE" button that links to [Teleport.org](https://developers.teleport.org/api/)'s page regarding the city searched by the user (as shown in the gif below).
 
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/95065307/171331574-71c5241f-9f65-4ce5-bf07-23e0be3d1731.gif)
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/95065307/171333821-0d6a64ba-2854-46ec-9efe-ab10865d0595.gif)
 
 2. If the name you have searched for is NOT close enough to any of the actual city names present in Teleport.org's database. The site will display an error message (as shown in the gif below).
 
