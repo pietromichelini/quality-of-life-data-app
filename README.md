@@ -2,16 +2,17 @@
 App that displays quality of life data about a list of urban areas (through [Teleport.org](https://developers.teleport.org/api/)'s API).
 
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
     <img src="src/assets/img/favicon.ico" alt="Logo" width="50" height="50">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Move Planner</h3>
+  
+</div>
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<details align="left">
   <summary>Table of Contents</summary>
   <ol>
     <li>
