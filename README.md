@@ -5,7 +5,7 @@ App that displays quality of life data about a list of urban areas (through [Tel
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="src/assets/img/favicon.ico" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -19,6 +19,7 @@ App that displays quality of life data about a list of urban areas (through [Tel
     <a href="https://fascinating-pie-7a403c.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/pietromichelini/Webpack-QOL-Data-App/issues">Report Bug</a>
+
     ·
     <a href="https://github.com/pietromichelini/Webpack-QOL-Data-App/issues">Request Feature</a>
   </p>
