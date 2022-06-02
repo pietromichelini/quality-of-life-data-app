@@ -35,7 +35,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/95065307/171333043-8dba40bc-6440-433f-83f2-aa500173c318.gif" /></p>
 
-This simple app allows the user to search for a city and find out data about its quality of life.
+This simple app allows the user to search for a city and displays data about its quality of life indicators.
 Click [here](https://fascinating-pie-7a403c.netlify.app/) to try it now.
 
 (The data displayed is fetched from [Teleport.org](https://developers.teleport.org/api/)'s free API)
