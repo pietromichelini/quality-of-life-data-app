@@ -36,7 +36,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/95065307/171333043-8dba40bc-6440-433f-83f2-aa500173c318.gif" /></p>
 
 <p> This simple app allows the user to search for over 200 cities and displays data about their quality of life. </br>
-Click <a href="https://fascinating-pie-7a403c.netlify.app/">here</a> to try it now. </p> 
+Click <a target="_blank" href="https://fascinating-pie-7a403c.netlify.app/">here</a> to try it now. </p> 
 
 (The data displayed is fetched from [Teleport.org](https://developers.teleport.org/api/)'s free API)
 
