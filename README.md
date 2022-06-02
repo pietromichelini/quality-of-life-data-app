@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/pietromichelini/Webpack-QOL-Data-App/">
     <img src="src/assets/img/favicon.ico" alt="Logo" width="50" height="50">
   </a>
 <h3 align="center">Move Informer</h3>
@@ -36,7 +36,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/95065307/171333043-8dba40bc-6440-433f-83f2-aa500173c318.gif" /></p>
 
 <p> This simple app allows the user to search for over 200 cities and displays data about their quality of life. </br>
-Click <a target="_blank" href="https://fascinating-pie-7a403c.netlify.app/">here</a> to try it now. </p> 
+Click <a target="_blank" href="https://rainbow-churros-a483c4.netlify.app/">here</a> to try it now. </p> 
 
 (The data displayed is fetched from [Teleport.org](https://developers.teleport.org/api/)'s free API)
 
@@ -127,4 +127,4 @@ Pietro Michelini - pietro.michelini@gmail.com
 
 Project Links: 
 - [Github Repository](https://github.com/github_username/repo_name)
-- [Netlify Website](https://fascinating-pie-7a403c.netlify.app/)
+- [Netlify Website](https://rainbow-churros-a483c4.netlify.app/)
