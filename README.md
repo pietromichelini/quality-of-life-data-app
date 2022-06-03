@@ -42,9 +42,9 @@ Click <a target="_blank" href="https://rainbow-churros-a483c4.netlify.app/">here
 
 
 ### Built With
-* [HTML](https://en.wikipedia.org/wiki/HTML)
-* [CSS](https://en.wikipedia.org/wiki/CSS)
-* [JS](https://en.wikipedia.org/wiki/JavaScript)
+* HTML
+* CSS
+* JS
 * [Webpack](https://webpack.js.org)
 * [Sass](https://sass-lang.com/)
 * [Lodash](https://lodash.com)
