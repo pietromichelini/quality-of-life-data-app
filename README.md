@@ -33,7 +33,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p align="center"><img src="https://user-images.githubusercontent.com/95065307/171333043-8dba40bc-6440-433f-83f2-aa500173c318.gif" /></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/95065307/171776882-54b5f12f-ae0e-45c7-a3ca-9830304c5570.gif" /></p>
 
 <p> This simple app allows the user to search for over 200 cities and displays data about their quality of life. </br>
 Click <a target="_blank" href="https://rainbow-churros-a483c4.netlify.app/">here</a> to try it now. </p> 
