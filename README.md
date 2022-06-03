@@ -73,17 +73,21 @@ If you don't have npm installed yet, simply type the following command in your t
 ### Installation
 
 1. Clone the repo
+
    ```sh
    git clone https://github.com/pietromichelini/Webpack-QOL-Data-App.git
    ```
 2. Install NPM packages
+
    ```sh
    npm install
    ```
 3. Build from source 
+
    ```sh
    npm run build
    ```
+
 4. Open dist/index.html 
 
 In alternative to steps 3 and 4 you can also just serve directly from source (using [webpack-dev-server](https://webpack.js.org/configuration/dev-server/)).
