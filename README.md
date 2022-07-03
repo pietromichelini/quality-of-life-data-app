@@ -40,6 +40,8 @@ Click <a target="_blank" href="https://rainbow-churros-a483c4.netlify.app/">here
 
 (The data displayed is fetched from [Teleport.org](https://developers.teleport.org/api/)'s free API)
 
+UPDATE: The site [Teleport.org](https://developers.teleport.org/api/) is currently not working as it should and as a consequence neither is [Move Informer](https://rainbow-churros-a483c4.netlify.app/).
+
 
 ### Built With
 * HTML
