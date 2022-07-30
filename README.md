@@ -40,8 +40,6 @@ Click <a target="_blank" href="https://rainbow-churros-a483c4.netlify.app/">here
 
 (The data displayed is fetched from [Teleport.org](https://developers.teleport.org/api/)'s free API)
 
-⚠️ ATTENTION: Unfortunately [Teleport.org](https://developers.teleport.org/api/)'s website is currently not able to display the city data, and as a result neither is [Move Informer](https://rainbow-churros-a483c4.netlify.app/) (July 3rd 2022).
-
 
 ### Built With
 * HTML
