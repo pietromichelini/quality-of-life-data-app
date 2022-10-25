@@ -36,7 +36,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/95065307/171776882-54b5f12f-ae0e-45c7-a3ca-9830304c5570.gif" /></p>
 
 <p> This simple app allows the user to search for over 200 cities and displays data about their quality of life. </br>
-Click <a target="_blank" href="https://rainbow-churros-a483c4.netlify.app/">here</a> to try it now. </p> 
+Click <a target="_blank" href="https://move-informer.netlify.app/">here</a> to try it now. </p> 
 
 (The data displayed is fetched from [Teleport.org](https://developers.teleport.org/api/)'s free API)
 
@@ -131,4 +131,4 @@ Pietro Michelini - pietro.michelini@gmail.com
 
 Project Links: 
 - [Github Repository](https://github.com/github_username/repo_name)
-- [Netlify Website](https://rainbow-churros-a483c4.netlify.app/)
+- [Netlify Website](https://move-informer.netlify.app/)
